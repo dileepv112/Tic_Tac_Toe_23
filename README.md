@@ -39,10 +39,6 @@ Contributions to the Tic Tac Toe game Android app are welcome. If you find any i
 
 The Tic Tac Toe game Android app is open-source and distributed under the MIT License. Feel free to use the code for personal or commercial purposes.
 
-#Acknowledgements
-
-The Tic Tac Toe game Android app is inspired by the classic paper-and-pencil game. Special thanks to the Android community for resources and tutorials.
-
 #Contact
 
 For any questions or inquiries, please contact [211b112@juetguna.in].
